@@ -47,8 +47,8 @@ Cada coluna deve conter os números de 1 a 9, sem repetições.
 
 Cada bloco 3x3 deve conter os números de 1 a 9, sem repetições.
 
-👩‍💻 Autor
+## 👩‍💻 Autor
 Feito com 💜 por Manuela Gadelho
 
-📝 Licença
+## 📝 Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
